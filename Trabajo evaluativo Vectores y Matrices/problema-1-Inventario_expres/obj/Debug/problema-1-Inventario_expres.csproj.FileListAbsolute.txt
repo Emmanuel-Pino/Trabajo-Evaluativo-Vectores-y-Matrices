@@ -1,0 +1,7 @@
+C:\Users\emman\OneDrive\Escritorio\Trabajo evaluativo Vectores y Matrices\problema-1-Inventario_expres\bin\Debug\problema-1-Inventario_expres.exe.config
+C:\Users\emman\OneDrive\Escritorio\Trabajo evaluativo Vectores y Matrices\problema-1-Inventario_expres\bin\Debug\problema-1-Inventario_expres.exe
+C:\Users\emman\OneDrive\Escritorio\Trabajo evaluativo Vectores y Matrices\problema-1-Inventario_expres\bin\Debug\problema-1-Inventario_expres.pdb
+C:\Users\emman\OneDrive\Escritorio\Trabajo evaluativo Vectores y Matrices\problema-1-Inventario_expres\obj\Debug\problema-1-Inventario_expres.csproj.AssemblyReference.cache
+C:\Users\emman\OneDrive\Escritorio\Trabajo evaluativo Vectores y Matrices\problema-1-Inventario_expres\obj\Debug\problema-1-Inventario_expres.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Escritorio\Trabajo evaluativo Vectores y Matrices\problema-1-Inventario_expres\obj\Debug\problema-1-Inventario_expres.exe
+C:\Users\emman\OneDrive\Escritorio\Trabajo evaluativo Vectores y Matrices\problema-1-Inventario_expres\obj\Debug\problema-1-Inventario_expres.pdb

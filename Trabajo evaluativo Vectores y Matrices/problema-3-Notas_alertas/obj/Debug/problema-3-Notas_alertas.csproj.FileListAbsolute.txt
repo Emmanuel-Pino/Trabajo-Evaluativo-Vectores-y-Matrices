@@ -1,0 +1,7 @@
+C:\Users\emman\OneDrive\Escritorio\Trabajo evaluativo Vectores y Matrices\problema-3-Notas_alertas\bin\Debug\problema-3-Notas_alertas.exe.config
+C:\Users\emman\OneDrive\Escritorio\Trabajo evaluativo Vectores y Matrices\problema-3-Notas_alertas\bin\Debug\problema-3-Notas_alertas.exe
+C:\Users\emman\OneDrive\Escritorio\Trabajo evaluativo Vectores y Matrices\problema-3-Notas_alertas\bin\Debug\problema-3-Notas_alertas.pdb
+C:\Users\emman\OneDrive\Escritorio\Trabajo evaluativo Vectores y Matrices\problema-3-Notas_alertas\obj\Debug\problema-3-Notas_alertas.csproj.AssemblyReference.cache
+C:\Users\emman\OneDrive\Escritorio\Trabajo evaluativo Vectores y Matrices\problema-3-Notas_alertas\obj\Debug\problema-3-Notas_alertas.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Escritorio\Trabajo evaluativo Vectores y Matrices\problema-3-Notas_alertas\obj\Debug\problema-3-Notas_alertas.exe
+C:\Users\emman\OneDrive\Escritorio\Trabajo evaluativo Vectores y Matrices\problema-3-Notas_alertas\obj\Debug\problema-3-Notas_alertas.pdb
